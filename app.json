@@ -1,0 +1,55 @@
+{ 
+       "name": "Alcatraz bot", 
+       "description": "Alcatraz tagger", 
+       "keywords": [ 
+          "telegram", 
+          "tagger", 
+          "group", 
+          "mkaofc", 
+          "etikettagsup" 
+       ],    
+    "repository": "https://github.com/K6mando/mentionall", 
+    "env": { 
+       "TOKEN": { 
+          "description": "Botunuzun tokenini bura yazın", 
+          "value": "" 
+       }, 
+       "APP_ID": { 
+          "description": "my.telegram.org adresindən APP ID alın.", 
+          "value": "" 
+       }, 
+       "API_HASH": { 
+          "description": "my.telegram.org adresindən API HASH alın", 
+          "value": "" 
+       },     
+       "LOG_QRUP": { 
+          "description": "log grubun id si", 
+          "value": "" 
+       }, 
+       "USERNAME": { 
+          "description": "Botun kullanıcı adı yazınız @ işareti olmadan", 
+          "value": "" 
+       }, 
+       "sahib": { 
+          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan", 
+          "value": "OldDictator" 
+       },       
+       "support": { 
+          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın", 
+          "value": "Richard_Ramirezzblog" 
+       }, 
+       "startmesaj": { 
+          "description": "Bota start verilince mesajınız", 
+          "value": "**Salam** __Qrupda userləri və admins-i tağ edə bilirəm ★__" 
+       }, 
+       "qrupstart": { 
+          "description": "Grupta start verildiği zaman mesajınız", 
+          "value": "✅ **Mən hal-hazırda aktivəm !** 🕊️ **Əmrləri görmək üçün şəxsidən baxa bilərsən**" 
+       }, 
+       "komutlar": { 
+          "description": "Yardım menüsü", 
+          "value": "Yardım Menyusuna Xoş gəldin 🗽\n/utag <Mesajınız> - userləri 5-li tağ edərəm\n/atag <Mesajınız> - Sadəcə admins-i tağ edərəm\n/tektag <Mesajınız> - userləri tək-tək tağ edərəm\n/etag  <Mesajınız> - Userləri emoji ilə tağ edərəmm\n/stag <Mesajınız> - Userləri mənalı sözlər ilə tağ edərəm\n/rtag  <Mesajınız> - Userləri rənglər ilə tağ edərəm\n/cancel - Tağı dayandıraram.\n❕ Yalnız admins heyyəti bu  əmrlərdən istifadə edə bilər. ✨" 
+       } 
+       
+    } 
+  }
