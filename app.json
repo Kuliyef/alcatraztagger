@@ -8,7 +8,7 @@
           "mkaofc", 
           "etikettagsup" 
        ],    
-    "repository": "https://github.com/K6mando/mentionall", 
+    "repository": "https://github.com/Kuliyef/alcatraztagger", 
     "env": { 
        "TOKEN": { 
           "description": "Botunuzun tokenini bura yazın", 
